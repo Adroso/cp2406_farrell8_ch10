@@ -1,9 +1,9 @@
 package Debug2;
 
-public class DebugVacation
+public class FixDebugVacation
 {
-   private int days;
-   public DebugVacation()
+   protected int days;
+   public FixDebugVacation()
    {
       days = 10;
    }
